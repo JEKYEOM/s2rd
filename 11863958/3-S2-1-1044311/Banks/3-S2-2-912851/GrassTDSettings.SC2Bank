@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PlayerSettings">
+        <Key name="PlayerSettings.9">
+            <Difficulty.0.Int int="1"/>
+            <Hardcore.0.Int int="0"/>
+            <Map.0.Int int="1"/>
+            <HyperMode.0.Int int="0"/>
+            <UberBosses.0.Int int="1"/>
+            <WavesPlus.0.Int int="1"/>
+        </Key>
+    </Section>
+</Bank>

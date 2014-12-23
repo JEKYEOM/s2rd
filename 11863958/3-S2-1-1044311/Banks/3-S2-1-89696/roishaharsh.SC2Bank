@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="mutalisk">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="corruptor">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="ultralisk">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="swarm">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="infestor">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="mutagen">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="9">
+            <Value int="0"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="8">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="5"/>
+        </Key>
+        <Key name="10">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+        <Key name="11">
+            <Value int="0"/>
+        </Key>
+        <Key name="7">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="zergling">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="drone">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="roach">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="overseer">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="hatchery">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="queen">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="baneling">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="hydralisk">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="overlord">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="broodlord">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

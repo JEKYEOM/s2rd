@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PlayerInfo">
+        <Key name="PlayerInfo.9">
+            <LossStreak.0.Int int="7"/>
+            <Losses.4.Int int="0"/>
+            <WinStreakMax.0.Int int="0"/>
+            <Name.0.Text text="sergio"/>
+            <Wins.3.Int int="0"/>
+            <Wins.4.Int int="0"/>
+            <Games.2.Int int="0"/>
+            <Handle.0.String string="3-S2-1-1044311"/>
+            <Wins.2.Int int="0"/>
+            <Losses.0.Int int="7"/>
+            <TimePlay.0.Int int="4950"/>
+            <Losses.3.Int int="0"/>
+            <Kills.0.Int int="9510"/>
+            <Games.4.Int int="0"/>
+            <Wins.0.Int int="0"/>
+            <HashValue.0.String string="4Vc254M44EAP#UUB1UUB1$oPRV6D3U$F3VAQ5FkN$aBz$1kxDW6U7G2Z8$$$"/>
+            <LossStreakMax.0.Int int="7"/>
+            <Losses.2.Int int="0"/>
+            <Games.0.Int int="7"/>
+            <Losses.1.Int int="7"/>
+            <Games.1.Int int="7"/>
+            <WinStreak.0.Int int="0"/>
+            <Games.3.Int int="0"/>
+            <Wins.1.Int int="0"/>
+        </Key>
+    </Section>
+</Bank>
